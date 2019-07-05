@@ -1,3 +1,4 @@
+[![Build Status](https://squasta.visualstudio.com/Prepa-AZ400/_apis/build/status/BuildPipelineTerraform?branchName=master)](https://squasta.visualstudio.com/Prepa-AZ400/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
